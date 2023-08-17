@@ -1,4 +1,4 @@
-![xxaexon's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=buefy&show_icons=true)
+![xxaexon's GitHub stats](https://github-readme-stats.vercel.app/api?username=xxaexon&theme=buefy&show_icons=true)
 
 <div align="center">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
